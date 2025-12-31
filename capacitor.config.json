@@ -1,9 +1,9 @@
 ﻿{
     "appId": "com.ednovas.donguatv",
-    "appName": "E视界",
+    "appName": "知新坊",
     "webDir": "public",
     "server": {
-        "url": "https://ednovas.video",
+        "url": "https://ys.xuxlc.cn",
         "cleartext": true
     },
     "plugins": {
@@ -13,4 +13,5 @@
             "backgroundColor": "#000000"
         }
     }
+
 }
